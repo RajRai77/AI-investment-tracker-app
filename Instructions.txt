@@ -1,0 +1,12 @@
+1. npm create vite@latest ai-investment-tracker
+ Select React then Javascript
+
+2. Install dependencies 
+cd ai-investment-tracker
+npm install
+npm install recharts framer-motion lucide-react
+
+3.Then Run
+npm run dev
+
+
